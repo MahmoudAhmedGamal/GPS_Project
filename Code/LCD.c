@@ -2,7 +2,7 @@
 #include"UART.h"
 #include<stdbool.h>
 
-
+//////////////////////////////////////
 //RS-->PD0
 //RW-->PD1
 //EN-->PD2
